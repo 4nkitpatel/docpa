@@ -1,6 +1,6 @@
 # docpa
 
-A new Flutter project.
+A new flutter app for event management and booking.
 
 ## Getting Started
 
